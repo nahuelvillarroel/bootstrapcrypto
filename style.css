@@ -1,6 +1,6 @@
 body {
   background-image: url(./images/fondo7.jpg);
-  background-size: 1920px 1080px;
+  background-size: cover;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-style: oblique;
   color: rgb(239, 230, 231);
@@ -12,6 +12,11 @@ a:hover {
 }
 
 .formulario {
+  display: flex;
+  justify-content: center;
+}
+
+.titulo2 {
   display: flex;
   justify-content: center;
 }
