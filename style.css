@@ -11,12 +11,6 @@ a:hover {
   color: rgb(182, 126, 21) !important;
 }
 
-.titulo2 {
-  display: flex;
-  justify-content: center;
-  height: 100%;
-}
-
 .formulario {
   display: flex;
   justify-content: center;
@@ -32,6 +26,8 @@ a:hover {
   text-decoration: none;
   height: 100%;
   font-weight: 400;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 20px;
 }
 
 .img {
