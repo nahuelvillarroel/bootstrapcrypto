@@ -21,6 +21,10 @@ a:hover {
   justify-content: center;
 }
 
+#exampleFormControlTextarea1 {
+  resize: none;
+}
+
 .section {
   display: flex;
   justify-content: center;
