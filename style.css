@@ -17,10 +17,6 @@ a:hover {
   color: rgb(182, 126, 21) !important;
 }
 
-.div1 {
-  width: 1524px;
-}
-
 .formulario {
   display: flex;
   justify-content: center;
