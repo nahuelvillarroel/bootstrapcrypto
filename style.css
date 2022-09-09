@@ -1,3 +1,9 @@
+.section {
+  display: flex;
+  justify-content: center;
+  padding: 100%;
+}
+
 body {
   background-image: url(./images/fondo7.jpg);
   background-size: cover;
@@ -28,12 +34,6 @@ a:hover {
 
 #exampleFormControlTextarea1 {
   resize: none;
-}
-
-.section {
-  display: flex;
-  justify-content: center;
-  padding: 100%;
 }
 
 .texto {

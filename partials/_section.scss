@@ -1,7 +1,6 @@
 .section{
-    display: flex;
-    justify-content: center;
-    padding: 100%;
+    @extend %section
+    
 }
 .texto{
     font-size:xx-large ;
