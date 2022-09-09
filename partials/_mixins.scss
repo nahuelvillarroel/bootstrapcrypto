@@ -1,0 +1,5 @@
+@mixin formulario ($display, $justify) {
+    display: $display;
+    justify-content: $justify;
+    
+}
